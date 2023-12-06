@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Simple Notes App
 This is a simple notes app built with React and Django.
 
@@ -32,3 +33,6 @@ Install Nginx reverse proxy to make this application available
 =======
 # django
 >>>>>>> 4a1267c361d4f3867f70938840d80e0b8d039691
+=======
+# django
+>>>>>>> a005bc3ab4ee2f3202a6255a10d4917a8c2112dd
